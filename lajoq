@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="lajoq 状態と確率で世界を見る言語">
+<title>lajoq</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Zen+Kaku+Gothic+New:wght@300;400;500;700;900&display=swap');
+body{background:#001020;}
+*{color:#c0e0ff; font-size:15px; font-family:'Zen Kaku Gothic New',sans-serif;}
+h1{font-size:50px; font-family:'figtree',sans-serif; font-variant: small-caps; color:#ffe0c0; padding:0; line-height:50px;margin:0;text-align:center; font-weight:300;}
+header > p{color:#ffe0c0; font-family:'Zen Kaku Gothic New',sans-serif; padding:0; margin:0; text-align:center;}
+p{padding:0;margin:0;}
+.intro{margin:10px; text-align:center;}
+.intro > p{font-size:20px;}
+.link{display:flex; justify-content:center; flex-wrap: wrap;}
+.link > div{width:40vw; border:1px solid #ffe0c0; text-align:center; background:#002040; padding:10px 0; margin:5px;}
+</style>
+</head>
+<body>
+<header>
+    <h1>lajoq</h1>
+    <p>状態と確率で世界を見る言語</p>
+</header>
+<section class="intro">
+    <p>ようこそ、lajoqの世界へ｡</p>
+    <p>この言語は、そのものの置かれている</p>
+    <p>「状態」と、それが真である「確立」を中心とした言語です｡</p>
+    <p>静かな世界ですが、ぜひお楽しみください｡</p>
+    <p></p>
+</section>
+<section class="link">
+    <div>辞書</div><div style="margin-right:25px;">入門書</div>
+    <div style="margin-left:25px;">文法書</div><div>翻訳</div>
+    <div>創作物</div><div style="margin-right:25px;">バージョン</div>
+    <div style="margin-left:25px;">作者について</div><div>その他の情報</div>
+</section>
+<footer style="margin-top: 50px; padding: 20px; text-align: center; border-top: 1px solid #004080;">
+    <p>&copy; 2025 かばやなぎ/S.</p>
+</footer>
+</body>
+</html>
